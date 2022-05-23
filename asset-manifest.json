@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tyger-React/static/css/main.e6c13ad2.css",
+    "main.js": "/Tyger-React/static/js/main.4085538a.js",
+    "index.html": "/Tyger-React/index.html",
+    "main.e6c13ad2.css.map": "/Tyger-React/static/css/main.e6c13ad2.css.map",
+    "main.4085538a.js.map": "/Tyger-React/static/js/main.4085538a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4085538a.js"
+  ]
+}
