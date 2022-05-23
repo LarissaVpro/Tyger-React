@@ -1,0 +1,9 @@
+export { default as Navigation } from "./Navigation";
+export { default as Footer } from "./Footer";
+export { default as Accueil } from "./Accueil";
+export { default as Notes } from "./Notes";
+export { default as Recrutements } from "./Recrutements";
+export { default as Rapports } from "./Rapports";
+export { default as Actus } from "./actus/Actus";
+export { default as Posts } from "./actus/Posts";
+export { default as Post } from "./actus/Post";
